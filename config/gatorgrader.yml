@@ -46,4 +46,4 @@ screenshots/screenshot_four.png:
 screenshots/screenshot_five.png:
     --exists
 # --> check the number of commits beyond a threshold
---commits 10
+--commits 17
